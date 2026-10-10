@@ -57,27 +57,21 @@ Tabel yang digunakan:
    `http://localhost:8000`
 
 ## Screenshot Aplikasi
-## Screenshot Aplikasi
 
-### Halaman Daftar Produk
+### 1. Halaman Daftar Produk
+![Halaman Daftar Produk](Halaman%20Daftar%20Produk.png)
 
-![Halaman Daftar Produk](screenshots/1.Halaman%20Daftar%20Produk.png)
+### 2. Form Tambah Produk
+![Form Tambah Produk](Form%20Tambah%20Produk.png)
 
-### Form Tambah Produk
+### 3. Form Edit Produk
+![Form Edit Produk](Form%20Edit%20Produk.png)
 
-![Form Tambah Produk](screenshots/2.Form%20Tambah%20Produk.png)
+### 4. Produk Berhasil Ditambahkan
+![Produk Berhasil Ditambahkan](Produk%20Berhasil%20di%20Tambahkan.png)
 
-### Form Edit Produk
-
-![Form Edit Produk](screenshots/3.Form%20Edit%20Produk.png)
-
-### Produk Berhasil Ditambahkan
-
-![Produk Berhasil Ditambahkan](screenshots/4.Produk%20Berhasil%20di%20Tambahkan.png)
-
-### Produk Berhasil Diedit
-
-![Produk Berhasil Diedit](screenshots/5.Produk%20Berhasil%20di%20Edit.png)
+### 5. Produk Berhasil Diedit
+![Produk Berhasil Diedit](Produk%20Berhasil%20di%20Edit.png)
 
 ## Repository GitHub
 
